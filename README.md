@@ -1,6 +1,6 @@
 ### About me
 
-### Experineces
+### Experiences
 |Type|Date|Contents|Organization|
 |:---:|:---:|:---:|:---:|
 |**External Activity**|2021.8~|[Boostcamp AI Tech](https://boostcamp.connect.or.kr/)|[Naver Connect](https://www.connect.or.kr/)
