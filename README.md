@@ -7,7 +7,7 @@
 |**External Activity**|2021.7~|Big Data Academic Club Member|[BOAZ](https://blog.naver.com/boazbigdata)
 |**Education**|2018.3~|Double majored in Industrial & Management Systems Engineering, Software Convergence|[KyungHee University](https://www.khu.ac.kr/kor/main/index.do)
 
-### Activities
+### Awards
 |Type|Date|Title|Contents|Host|
 |:---:|:---:|:---:|:---:|:---:|
 |**Competition**|2021.2~3|[Kaggle March Machine Learning Mania 2021 - NCAAW](https://www.kaggle.com/c/ncaaw-march-mania-2021)|8th out of 451 teams (Gold medal)|Kaggle|
