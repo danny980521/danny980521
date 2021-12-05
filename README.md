@@ -10,7 +10,7 @@
 ### Awards
 |Type|Date|Title|Contents|Host|
 |:---:|:---:|:---:|:---:|:---:|
-|**Competition**|2021.11|[Kaggle chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering)|43rd out of 943 teams (Silver medal)|Google|
+|**Competition**|2021.11|[Kaggle chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/discussion/288419)|43rd out of 943 teams (Silver medal)|Google|
 |**Competition**|2021.3|[Kaggle March Machine Learning Mania 2021 - NCAAW](https://www.kaggle.com/c/ncaaw-march-mania-2021)|8th out of 451 teams (Gold medal)|Kaggle|
 |**Competition**|2021.1|[Kaggle Riiid Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction)|334th out of 3395 teams (Bronze medal)|Riiid AIEd Challenge|
 
