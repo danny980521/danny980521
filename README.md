@@ -7,7 +7,7 @@
 |**Research Activity**|2022.1~9|Undergraduate Research Student|[KHU NLP LAB](http://nlp.khu.ac.kr/)
 |**External Activity**|2021.8~12|[Boostcamp AI Tech](https://boostcamp.connect.or.kr/)|[Naver Connect](https://www.connect.or.kr/)
 |**External Activity**|2021.7~9|Big Data Academic Club Member|[BOAZ](https://blog.naver.com/boazbigdata)
-|**Education**|2018.3~|Double majored in Industrial & Management Systems Engineering,<br>Software Convergence|[KyungHee University](https://www.khu.ac.kr/kor/main/index.do)
+|**Education**|2018.3~|Double majored in Industrial & Management Systems Engineering, Software Convergence|[KyungHee University](https://www.khu.ac.kr/kor/main/index.do)
 
 ### Awards
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
