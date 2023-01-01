@@ -13,9 +13,9 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 |**Competition**|2022.8|[CLOVA AI RUSH 2022 - Unknown Document Detection](https://campaign.naver.com/clova_airush/#none)|1st Place|Naver Clova|
 |**Hackathon**|2021.12|[Dataton Essay Data Hackathon for AI Model Training](http://www.dataton.kr/sub.php?code=6&mode=view&no=19)|1st Place|NIA|
-|**Competition**|2021.12|[AIFactory 2021 AI Text Summarization<br>Online Hackathon](http://aifactory.space/competition/detail/1918)|2nd out of 18 teams|NIA|
-|**Competition**|2021.11|[Kaggle chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/discussion/288419)|43rd out of 943 teams<br>(Silver medal)|Google|
-|**Competition**|2021.3|[Kaggle March Machine Learning Mania 2021 - NCAAW](https://www.kaggle.com/c/ncaaw-march-mania-2021)|8th out of 451 teams<br>(Gold medal)|Kaggle|
+|**Competition**|2021.12|[AIFactory 2021 AI Text Summarization<br>Online Hackathon](http://aifactory.space/competition/detail/1918)|2nd Place|NIA|
+|**Competition**|2021.11|[Kaggle chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/discussion/288419)|Silver medal|Google|
+|**Competition**|2021.3|[Kaggle March Machine Learning Mania 2021 - NCAAW](https://www.kaggle.com/c/ncaaw-march-mania-2021)|Gold medal|Kaggle|
 
 
 
